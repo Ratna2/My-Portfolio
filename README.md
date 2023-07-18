@@ -2,7 +2,7 @@ Certainly! Here's an example of a README.md file for your portfolio website repo
 
 # Portfolio Website
 
-![Project Image](./path/to/screenshot.png)
+![Project Image]()
 
 > A stunning and interactive portfolio website to showcase my projects, skills, and experience.
 
